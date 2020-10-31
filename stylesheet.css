@@ -1,15 +1,17 @@
 
-body {
+/*Background color*/
+.body {
   background: #F0F8FF;
 }
 
+/*Navigation bar*/
 .navbar-brand {
   background-color: #48D1CC;
   color: white;
   font-family: 'Noto Sans JP', sans-serif;
 }
 
-
+/*Footer*/
 .footer {
     position: fixed;
     left: 0;
