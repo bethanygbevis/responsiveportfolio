@@ -3,12 +3,19 @@ body {
   background: #F0F8FF;
 }
 
+.navbar-brand {
+  background-color: #48D1CC;
+  color: white;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+
 .footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #5F9EA0;
+    background-color: #48D1CC;
     color: white;
     text-align: center;
   }
