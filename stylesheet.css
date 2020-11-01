@@ -1,10 +1,10 @@
 
-/*Background color*/
+/*Here you can edit the baackground color of site*/
 .body {
   background: #D3D3D3; 
 }
 
-/*Navigation bar*/
+/*Here you can edit the navigation bar of site*/
 .navbar-brand {
   background-color: #5F9EA0; 
   font-family: 'Noto Sans JP', sans-serif;
@@ -14,6 +14,8 @@
 font-family: 'Noto Sans JP', sans-serif;
 }
 
+/*Here you can edit the headers of site pages*/
+
 h1 {
   font-family: 'Noto Sans JP', sans-serif;
   color: #5F9EA0; 
@@ -21,6 +23,8 @@ h1 {
   padding-left: 165px;
   padding-bottom: 40px;
 }
+
+/*Here you can edit the contact form*/
 
 .form-group {
 padding-left: 165px; 
@@ -30,10 +34,7 @@ padding-left: 165px;
   padding-left: 165px;
 }
 
-.card-title {
-  font-family: 'Noto Sans JP', sans-serif;
-  color: #5F9EA0; 
-}
+/*Here you can edit the contact form submit button*/
 
 input[type=button], input[type=submit], input[type=reset] {
   background-color:#5F9EA0;
@@ -45,9 +46,15 @@ input[type=button], input[type=submit], input[type=reset] {
   cursor: pointer;
 }
 
-/* Tip: use width: 100% for full-width buttons */
+/*Here you can edit the About page content card*/
 
-/*Footer*/
+.card-title {
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #5F9EA0; 
+}
+
+/*Here you can edit the footer of the site*/
+
 .footer {
     position: fixed;
     left: 0;
