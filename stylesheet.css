@@ -22,14 +22,30 @@ h1 {
   padding-bottom: 40px;
 }
 
-.form.group {
-  padding-left: 100px;
+.form-group {
+padding-left: 165px; 
+}
+
+.form {
+  padding-left: 165px;
 }
 
 .card-title {
   font-family: 'Noto Sans JP', sans-serif;
   color: #5F9EA0; 
 }
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color:#5F9EA0;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+/* Tip: use width: 100% for full-width buttons */
 
 /*Footer*/
 .footer {
