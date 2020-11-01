@@ -7,11 +7,14 @@ This task has been a big learning curve for me.
 
 I made a point to try complete this homework without any help. 
 
-I definitely made way more commits than I probably should have done - mainly down to going back and forth and switching around with probably not much structure ... but if I had to complete a task like this again, I think I'd be able to get through it much quicker and with less amendments / commits. The back end amendments probably look quite messy - but I just wanted to give it a real shot without asking for help.
+I definitely made way more commits than I probably should have done - mainly down to going back and forth and switching around with probably not much structure ... but if I had to complete a task like this again, I think I'd be able to get through it much quicker and with less amendments / commits. The back end amendments probably look quite messy - but I just wanted to give it a real shot without asking for help. I'd definitely do 1 commit per 1 change moving forward rather than adding 2 - 3 changes to 1 commit! 
 
-I've created a 3 page website of 'About', 'Portfolio' and 'Contact' and I've tried to make it look as much like the example as possible, but with my own little twist. I'd definitely do 1 commit per 1 change moving forward rather than adding 2 - 3 changes to 1 commit! 
+I've created a 3 page website of 'About', 'Portfolio' and 'Contact' and I've tried to make it look as much like the example as possible, but with my own little twist.
 
-Here is my URL:
+
+**The only thing I couldn't fix was the responsive menu. Once you decrease the size of the window, and the menu collapses into the 3-line menu, when clicked it doesn't respond... I tried to fix this but couldn't seem to manage it.**
+
+Here is my URL: https://bethanygbevis.github.io/responsiveportfolio/
 
 Here are my commits:
 
